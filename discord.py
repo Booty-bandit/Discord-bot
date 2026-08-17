@@ -17,3 +17,4 @@ def get_token():
 @client.event
 async def on_ready():
     print("Connected!")
+    
